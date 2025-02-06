@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap');
+
+@import "tailwindcss";
+
+@font-face {
+  font-family: spaceGrotesk;
+  src: url(./fonts/sharp-grotesk-15.ttf);
+}
+
+@font-face {
+  font-family: spaceGrotesk-book;
+  src: url(./fonts/SharpGrotesk-Book15.ttf);
+}
+
+body {
+  cursor: url('https://cdn.prod.website-files.com/6513c48ced436181a3a12349/6540b7d3d34a65dc20dcfa28_Mask%20group%20(26).svg'), auto;
+  font-family: spaceGrotesk;
+  background-image: url(https://cdn.prod.website-files.com/6513c48ced436181a3a12349/651422813d7771a5a162309b_Hero%20bg.svg);
+}
+
+.perfect-team{
+  font-family: spaceGrotesk-book;
+}
