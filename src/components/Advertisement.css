@@ -1,0 +1,12 @@
+.scrolling-text{
+    animation: scroll-left 8s linear infinite;
+}
+
+@keyframes scroll-left {
+    0% {
+      transform: translateX(0%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }

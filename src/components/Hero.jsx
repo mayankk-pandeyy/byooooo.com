@@ -19,7 +19,7 @@ const Hero = () => {
                     </div>
                 </div>
             </div>
-            <div className='absolute top-0 left-[20%]'>
+            <div className='absolute top-[-20px] left-[30%]'>
                 <img src='https://cdn.prod.website-files.com/6513c48ced436181a3a12349/653f64e80edd2d9b3c3525ee_group%20(1).svg'/>
             </div>
             <div className='absolute top-0 right-[20%]'>
